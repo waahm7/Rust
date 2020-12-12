@@ -1,0 +1,1 @@
+/Users/waqar/Exercism/rust/snake_game/target/debug/snake_game: /Users/waqar/Exercism/rust/snake_game/src/draw.rs /Users/waqar/Exercism/rust/snake_game/src/game.rs /Users/waqar/Exercism/rust/snake_game/src/main.rs /Users/waqar/Exercism/rust/snake_game/src/snake.rs

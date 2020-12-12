@@ -6,6 +6,7 @@ pub struct Clock {
     minutes: i32,
 }
 
+
 impl Clock {
     pub fn new(hours: i32, minutes: i32) -> Self {
         if minutes % 60 < 0 {

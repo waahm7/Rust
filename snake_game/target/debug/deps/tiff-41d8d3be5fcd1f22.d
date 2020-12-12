@@ -1,0 +1,14 @@
+/Users/waqar/Exercism/rust/snake_game/target/debug/deps/tiff-41d8d3be5fcd1f22.rmeta: /Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/lib.rs /Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/bytecast.rs /Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/decoder/mod.rs /Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/decoder/ifd.rs /Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/decoder/stream.rs /Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/encoder/mod.rs /Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/encoder/colortype.rs /Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/encoder/writer.rs /Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/error.rs /Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/tags.rs
+
+/Users/waqar/Exercism/rust/snake_game/target/debug/deps/tiff-41d8d3be5fcd1f22.d: /Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/lib.rs /Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/bytecast.rs /Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/decoder/mod.rs /Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/decoder/ifd.rs /Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/decoder/stream.rs /Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/encoder/mod.rs /Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/encoder/colortype.rs /Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/encoder/writer.rs /Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/error.rs /Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/tags.rs
+
+/Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/lib.rs:
+/Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/bytecast.rs:
+/Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/decoder/mod.rs:
+/Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/decoder/ifd.rs:
+/Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/decoder/stream.rs:
+/Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/encoder/mod.rs:
+/Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/encoder/colortype.rs:
+/Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/encoder/writer.rs:
+/Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/error.rs:
+/Users/waqar/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.6.0/src/tags.rs:
